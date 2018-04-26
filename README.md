@@ -19,6 +19,7 @@
 |---|---|---|---|---|---|
 | eureka-server | 服务发现 | 微服务技术性基础服务 | wiki等采用微服务的应用，会使用到服务发现 | 正在开发 | [eureka-server](https://github.com/yankj12/eureka-server) |
 | wiki-mongo-data-service | wiki数据服务 | 数据基础服务 | wiki的数据服务 | 正在开发 | [wiki-mongo-data-service](https://github.com/yankj12/wiki-mongo-data-service)| 
+| | 微服务网关 | 技术基础服务 | 网关 | 还未开发 | |
 | authentication | 身份认证服务 | 业务基础服务| 提供用户身份认证 | 还未开发 ||
 | | 用户权限控制服务 | 业务基础服务 | 提供用户权限控制 | 还未开发 ||
 | | 代码翻译服务 | 业务基础 | 提供公共代码翻译 | 还未开发 | |
